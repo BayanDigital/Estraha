@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:booking_box/core/utils/util.dart';
 import 'package:booking_box/data/controller/filter/filter_controller.dart';
 import 'package:booking_box/data/controller/search_result/search_result_controller.dart';

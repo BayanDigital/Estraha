@@ -1,7 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:booking_box/core/di_service/di_services.dart';
 import 'package:booking_box/core/utils/my_strings.dart';
 import 'package:booking_box/data/model/general_setting/general_setting_response_model.dart';
 import 'package:booking_box/data/model/home/home_model.dart';
