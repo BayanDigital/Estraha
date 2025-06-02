@@ -1,0 +1,2 @@
+D:/khatab/Estra7a/Estra7a/android/app/.cxx/RelWithDebInfo/5a131k15/x86/CMakeFiles/edit_cache.dir
+D:/khatab/Estra7a/Estra7a/android/app/.cxx/RelWithDebInfo/5a131k15/x86/CMakeFiles/rebuild_cache.dir

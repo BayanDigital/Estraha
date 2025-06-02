@@ -1,0 +1,2 @@
+D:/Bayan/Estraha/Estra7a/android/app/.cxx/RelWithDebInfo/h6y6fa6e/x86_64/CMakeFiles/edit_cache.dir
+D:/Bayan/Estraha/Estra7a/android/app/.cxx/RelWithDebInfo/h6y6fa6e/x86_64/CMakeFiles/rebuild_cache.dir

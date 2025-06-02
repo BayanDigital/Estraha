@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "456212219069",
+    "project_id": "viserlab-global-app-eaedd",
+    "storage_bucket": "viserlab-global-app-eaedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:5c33b952b25342159123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.bookingbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

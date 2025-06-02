@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "viserlab-global-app-eaedd",
+                    "appId": "1:456212219069:android:5c33b952b25342159123d4",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "viserlab-global-app-eaedd",
+                    "configurations": {
+                        "android": "1:456212219069:android:5c33b952b25342159123d4",
+                        "ios": "1:456212219069:ios:9f722a3cd98c85489123d4"
+                    }
+                }
+            }
+        }
+    }
+}
